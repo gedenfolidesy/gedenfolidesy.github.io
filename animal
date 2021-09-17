@@ -1,1 +1,113 @@
 
+
+    {
+      
+      "show": true,
+      "CheckR": true,
+      "com": false,
+      "published": false,
+      
+      "version": 1,
+      "newAppLink": "",
+      
+      "video": "https://drive.google.com/uc?id=1g9La0gjuE6tcGkDGxYWLcm82a7MC0ONb",
+      "privacy": "https://gedenfolidesy.blogspot.com/p/privacy.html",
+      "mail":"gedenfolidesy",
+      
+      
+      "spancount": 1,
+      
+      "guide": [
+        
+     [
+            "Animal Crossing 1",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "In previous Animal Crossing games, villagers would simply move into your town and set up a house. New Horizons, however, has changed this system to make it more in keeping with the deserted island theme of the game"
+   ], 
+     [
+            "Animal Crossing 2",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "When you first arrive on your island, you'll be accompanied by two villagers and, as you slowly progress through the game, you'll be able to invite more villagers to your island.\nThe maximum number of villagers you can have living on your island is 10"
+   ], 
+     [
+            "Animal Crossing 3",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "The first time you'll be able to invite new villagers to your island will be after Nook's Cranny opens. Tom Nook will give you three housing kits to place around the island. (This is also the same point you unlock the Ladder and your first Bridge"
+   ], 
+     [
+            "Animal Crossing 4",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "Once you've decided where to place these kits, you'll next have to build three pieces of interior furniture and three pieces of exterior furniture for the villager whose house this will be"
+   ], 
+     [
+            "Animal Crossing 5 ",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "After crafting this furniture, your new villagers will settle on your island one day after the other. This means that if you build all the furniture in one day, then it will take three days for each villager to arrive"
+   ], 
+     [
+            "Animal Crossing 6",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "This is the only time you're required to build furniture to make villagers move to your island. Instead, you simply have to set aside a plot of land for them to live on"
+   ], 
+     [
+            "Animal Crossing 7",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "You'll now have to wait till you've upgraded Residential Services and to invite more villagers to your island. When Residential Services is upgraded, Tom Nook will offer you a variety of Island Infrastructure options. One of these will be assigning plots of land for villager housing.\nSetting aside a plot of land for a new villager will cost you 10,000 bells"
+   ], 
+     [
+            "Animal Crossing 8",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "Thankfully, you won't have to build any new furniture for these villagers. Tom Nook will call you when a plot of land has been sold to a villager. This can either be one you've invited or a randomly selected villager.\nYou'll also be rewarded with some Nook Miles once they move in"
+   ], 
+     [
+            "Animal Crossing 9",
+            "http://supportnewgames.website/images/animalcrossing/4.png",
+            "If you'd rather exercise some control over who moves onto your island, then there are three ways, which don't involve amiibo cards, to invite villagers to your island in New Horizons"
+   ]
+      ],
+      
+      
+      
+      
+      "med":false,
+      "NativeCount": 2,
+      
+      "showOnlyOpen":false,
+      
+      "snf": "mix",
+      "fan": false,
+      "adsfan": {
+ 
+        "fan_banner": "IMG_16_9_APP_INSTALL#220801140096909_224176343092722",
+        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
+        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
+        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+      },
+      
+     "anticipatefantrouble":false,
+
+      "admob": false,
+      "adsadmb": {
+        "admb_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admb_inters": "ca-app-pub-3940256099942544/1033173712",
+        "admb_native": "ca-app-pub-3940256099942544/2247696110",
+        "admb_native2": "ca-app-pub-3940256099942544/2247696110",
+        "admb_openad": "ca-app-pub-3940256099942544/3419835294"
+      },
+      
+      "unity": false,
+      "adsunity": {
+        "unity_id": "3667089s",
+        "unity_inters": "video"
+      },
+      
+      
+      "more": [
+        [
+          "false",
+          "https://.com/com/miga_town_wallpapers.png",
+          "miga_town_wallpapers",
+          "hragua"
+        ]
+      ]
+    }
