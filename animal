@@ -86,15 +86,15 @@
       
      "anticipatefantrouble":false,
 
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-3798047438382953/9491933015",
-        "admb_inters": "ca-app-pub-3798047438382953/6865769674",
-        "admb_native": "ca-app-pub-3798047438382953/9300361328",
-        "admb_native2": "ca-app-pub-3798047438382953/9300361328",
-        "admb_openad": "ca-app-pub-3798047438382953/4239606333"
+        "admb_banner": "ca-app-pub-3999076702763203/9671804521",
+        "admb_inters": "ca-app-pub-3999076702763203/7045641188",
+        "admb_native": "ca-app-pub-3999076702763203/1793314508",
+        "admb_native2": "ca-app-pub-3999076702763203/1793314508",
+        "admb_openad": "ca-app-pub-3999076702763203/4419477842"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
